@@ -1,0 +1,606 @@
+{
+    "topRanks": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "score": 985,
+            "avatar": "https://media.istockphoto.com/id/1411901680/photo/happy-man-toothy-smile-positive-emotion-avatar.jpg?s=612x612&w=0&k=20&c=H7YtE74Fs0CuGYftk0UtPYdZtO3VgBF5cX2HYmCI0C4="
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "score": 1000,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz33jQwCNCJN_HSsT_DqgLHT_dK50P4seyWA&s"
+        },
+        {
+            "id": 3,
+            "name": "Alex Johnson",
+            "score": 940,
+            "avatar": "https://image.pngaaa.com/469/4187469-middle.png"
+        }
+    ],
+    "otherRanks": [
+        {
+            "id": 4,
+            "name": "Emma Brown",
+            "score": 920,
+            "avatar": "https://i.pinimg.com/736x/02/db/4a/02db4a4200c1eb061f9bad7db2841b57.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Liam Davis",
+            "score": 910,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkvEI3al1eXnCjO4uVYCaqPoFj0WE-spvZNkRWJ6y67XWa-Rc4WcS9xQ5bkILktdAn1g&usqp=CAU"
+        },
+        {
+            "id": 6,
+            "name": "Olivia Wilson",
+            "score": 900,
+            "avatar": "https://i.pinimg.com/736x/02/db/4a/02db4a4200c1eb061f9bad7db2841b57.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Noah Martinez",
+            "score": 890,
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkvEI3al1eXnCjO4uVYCaqPoFj0WE-spvZNkRWJ6y67XWa-Rc4WcS9xQ5bkILktdAn1g&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "name": "Ava Anderson",
+            "score": 880,
+            "avatar": "https://example.com/avatar8.png"
+        },
+        {
+            "id": 9,
+            "name": "Ethan Thomas",
+            "score": 870,
+            "avatar": "https://example.com/avatar9.png"
+        },
+        {
+            "id": 10,
+            "name": "Sophia Taylor",
+            "score": 860,
+            "avatar": "https://example.com/avatar10.png"
+        },
+        {
+            "id": 11,
+            "name": "Mason Hernandez",
+            "score": 850,
+            "avatar": "https://example.com/avatar11.png"
+        },
+        {
+            "id": 12,
+            "name": "Isabella Moore",
+            "score": 840,
+            "avatar": "https://example.com/avatar12.png"
+        },
+        {
+            "id": 13,
+            "name": "William Martin",
+            "score": 830,
+            "avatar": "https://example.com/avatar13.png"
+        },
+        {
+            "id": 14,
+            "name": "Charlotte Jackson",
+            "score": 820,
+            "avatar": "https://example.com/avatar14.png"
+        },
+        {
+            "id": 15,
+            "name": "James White",
+            "score": 810,
+            "avatar": "https://example.com/avatar15.png"
+        },
+        {
+            "id": 16,
+            "name": "Amelia Harris",
+            "score": 800,
+            "avatar": "https://example.com/avatar16.png"
+        },
+        {
+            "id": 17,
+            "name": "Benjamin Thompson",
+            "score": 790,
+            "avatar": "https://example.com/avatar17.png"
+        },
+        {
+            "id": 18,
+            "name": "Evelyn Garcia",
+            "score": 780,
+            "avatar": "https://example.com/avatar18.png"
+        },
+        {
+            "id": 19,
+            "name": "Lucas Martinez",
+            "score": 770,
+            "avatar": "https://example.com/avatar19.png"
+        },
+        {
+            "id": 20,
+            "name": "Harper Robinson",
+            "score": 760,
+            "avatar": "https://example.com/avatar20.png"
+        },
+        {
+            "id": 21,
+            "name": "Henry Clark",
+            "score": 750,
+            "avatar": "https://example.com/avatar21.png"
+        },
+        {
+            "id": 22,
+            "name": "Abigail Rodriguez",
+            "score": 740,
+            "avatar": "https://example.com/avatar22.png"
+        },
+        {
+            "id": 23,
+            "name": "Alexander Lee",
+            "score": 730,
+            "avatar": "https://example.com/avatar23.png"
+        },
+        {
+            "id": 24,
+            "name": "Emily Walker",
+            "score": 720,
+            "avatar": "https://example.com/avatar24.png"
+        },
+        {
+            "id": 25,
+            "name": "Daniel Hall",
+            "score": 710,
+            "avatar": "https://example.com/avatar25.png"
+        },
+        {
+            "id": 26,
+            "name": "Elizabeth Young",
+            "score": 700,
+            "avatar": "https://example.com/avatar26.png"
+        },
+        {
+            "id": 27,
+            "name": "Matthew Allen",
+            "score": 690,
+            "avatar": "https://example.com/avatar27.png"
+        },
+        {
+            "id": 28,
+            "name": "Sofia Sanchez",
+            "score": 680,
+            "avatar": "https://example.com/avatar28.png"
+        },
+        {
+            "id": 29,
+            "name": "Joseph Wright",
+            "score": 670,
+            "avatar": "https://example.com/avatar29.png"
+        },
+        {
+            "id": 30,
+            "name": "Avery King",
+            "score": 660,
+            "avatar": "https://example.com/avatar30.png"
+        },
+        {
+            "id": 31,
+            "name": "David Scott",
+            "score": 650,
+            "avatar": "https://example.com/avatar31.png"
+        },
+        {
+            "id": 32,
+            "name": "Scarlett Green",
+            "score": 640,
+            "avatar": "https://example.com/avatar32.png"
+        },
+        {
+            "id": 33,
+            "name": "Jackson Baker",
+            "score": 630,
+            "avatar": "https://example.com/avatar33.png"
+        },
+        {
+            "id": 34,
+            "name": "Grace Adams",
+            "score": 620,
+            "avatar": "https://example.com/avatar34.png"
+        },
+        {
+            "id": 35,
+            "name": "Samuel Nelson",
+            "score": 610,
+            "avatar": "https://example.com/avatar35.png"
+        },
+        {
+            "id": 36,
+            "name": "Chloe Hill",
+            "score": 600,
+            "avatar": "https://example.com/avatar36.png"
+        },
+        {
+            "id": 37,
+            "name": "Sebastian Ramirez",
+            "score": 590,
+            "avatar": "https://example.com/avatar37.png"
+        },
+        {
+            "id": 38,
+            "name": "Zoey Campbell",
+            "score": 580,
+            "avatar": "https://example.com/avatar38.png"
+        },
+        {
+            "id": 39,
+            "name": "Jack Mitchell",
+            "score": 570,
+            "avatar": "https://example.com/avatar39.png"
+        },
+        {
+            "id": 40,
+            "name": "Penelope Roberts",
+            "score": 560,
+            "avatar": "https://example.com/avatar40.png"
+        },
+        {
+            "id": 41,
+            "name": "Owen Carter",
+            "score": 550,
+            "avatar": "https://example.com/avatar41.png"
+        },
+        {
+            "id": 42,
+            "name": "Layla Phillips",
+            "score": 540,
+            "avatar": "https://example.com/avatar42.png"
+        },
+        {
+            "id": 43,
+            "name": "Wyatt Evans",
+            "score": 530,
+            "avatar": "https://example.com/avatar43.png"
+        },
+        {
+            "id": 44,
+            "name": "Riley Turner",
+            "score": 520,
+            "avatar": "https://example.com/avatar44.png"
+        },
+        {
+            "id": 45,
+            "name": "Gabriel Torres",
+            "score": 510,
+            "avatar": "https://example.com/avatar45.png"
+        },
+        {
+            "id": 46,
+            "name": "Lily Parker",
+            "score": 500,
+            "avatar": "https://example.com/avatar46.png"
+        },
+        {
+            "id": 47,
+            "name": "Julian Collins",
+            "score": 490,
+            "avatar": "https://example.com/avatar47.png"
+        },
+        {
+            "id": 48,
+            "name": "Hannah Edwards",
+            "score": 480,
+            "avatar": "https://example.com/avatar48.png"
+        },
+        {
+            "id": 49,
+            "name": "Luke Stewart",
+            "score": 470,
+            "avatar": "https://example.com/avatar49.png"
+        },
+        {
+            "id": 50,
+            "name": "Nora Flores",
+            "score": 460,
+            "avatar": "https://example.com/avatar50.png"
+        },
+        {
+            "id": 51,
+            "name": "Levi Morris",
+            "score": 450,
+            "avatar": "https://example.com/avatar51.png"
+        },
+        {
+            "id": 52,
+            "name": "Aria Nguyen",
+            "score": 440,
+            "avatar": "https://example.com/avatar52.png"
+        },
+        {
+            "id": 53,
+            "name": "Isaac Murphy",
+            "score": 430,
+            "avatar": "https://example.com/avatar53.png"
+        },
+        {
+            "id": 54,
+            "name": "Emilia Rivera",
+            "score": 420,
+            "avatar": "https://example.com/avatar54.png"
+        },
+        {
+            "id": 55,
+            "name": "Grayson Cook",
+            "score": 410,
+            "avatar": "https://example.com/avatar55.png"
+        },
+        {
+            "id": 56,
+            "name": "Aubrey Rogers",
+            "score": 400,
+            "avatar": "https://example.com/avatar56.png"
+        },
+        {
+            "id": 57,
+            "name": "Leo Morgan",
+            "score": 390,
+            "avatar": "https://example.com/avatar57.png"
+        },
+        {
+            "id": 58,
+            "name": "Stella Peterson",
+            "score": 380,
+            "avatar": "https://example.com/avatar58.png"
+        },
+        {
+            "id": 59,
+            "name": "Carson Cooper",
+            "score": 370,
+            "avatar": "https://example.com/avatar59.png"
+        },
+        {
+            "id": 60,
+            "name": "Bella Reed",
+            "score": 360,
+            "avatar": "https://example.com/avatar60.png"
+        },
+        {
+            "id": 61,
+            "name": "Ezra Bailey",
+            "score": 350,
+            "avatar": "https://example.com/avatar61.png"
+        },
+        {
+            "id": 62,
+            "name": "Lucy Bell",
+            "score": 340,
+            "avatar": "https://example.com/avatar62.png"
+        },
+        {
+            "id": 63,
+            "name": "Landon Gomez",
+            "score": 330,
+            "avatar": "https://example.com/avatar63.png"
+        },
+        {
+            "id": 64,
+            "name": "Savannah Kelly",
+            "score": 320,
+            "avatar": "https://example.com/avatar64.png"
+        },
+        {
+            "id": 65,
+            "name": "Christopher Howard",
+            "score": 310,
+            "avatar": "https://example.com/avatar65.png"
+        },
+        {
+            "id": 66,
+            "name": "Paisley Ward",
+            "score": 300,
+            "avatar": "https://example.com/avatar66.png"
+        },
+        {
+            "id": 67,
+            "name": "Joshua Cox",
+            "score": 290,
+            "avatar": "https://example.com/avatar67.png"
+        },
+        {
+            "id": 68,
+            "name": "Madelyn Diaz",
+            "score": 280,
+            "avatar": "https://example.com/avatar68.png"
+        },
+        {
+            "id": 69,
+            "name": "Andrew Richardson",
+            "score": 270,
+            "avatar": "https://example.com/avatar69.png"
+        },
+        {
+            "id": 70,
+            "name": "Skylar Wood",
+            "score": 260,
+            "avatar": "https://example.com/avatar70.png"
+        },
+        {
+            "id": 71,
+            "name": "Mateo Watson",
+            "score": 250,
+            "avatar": "https://example.com/avatar71.png"
+        },
+        {
+            "id": 72,
+            "name": "Leah Brooks",
+            "score": 240,
+            "avatar": "https://example.com/avatar72.png"
+        },
+        {
+            "id": 73,
+            "name": "Asher Bennett",
+            "score": 230,
+            "avatar": "https://example.com/avatar73.png"
+        },
+        {
+            "id": 74,
+            "name": "Audrey Gray",
+            "score": 220,
+            "avatar": "https://example.com/avatar74.png"
+        },
+        {
+            "id": 75,
+            "name": "Theodore James",
+            "score": 210,
+            "avatar": "https://example.com/avatar75.png"
+        },
+        {
+            "id": 76,
+            "name": "Brooklyn Reyes",
+            "score": 200,
+            "avatar": "https://example.com/avatar76.png"
+        },
+        {
+            "id": 77,
+            "name": "Elias Cruz",
+            "score": 190,
+            "avatar": "https://example.com/avatar77.png"
+        },
+        {
+            "id": 78,
+            "name": "Natalie Hughes",
+            "score": 180,
+            "avatar": "https://example.com/avatar78.png"
+        },
+        {
+            "id": 79,
+            "name": "Aaron Price",
+            "score": 170,
+            "avatar": "https://example.com/avatar79.png"
+        },
+        {
+            "id": 80,
+            "name": "Hannah Sanders",
+            "score": 160,
+            "avatar": "https://example.com/avatar80.png"
+        },
+        {
+            "id": 81,
+            "name": "Isaiah Patel",
+            "score": 150,
+            "avatar": "https://example.com/avatar81.png"
+        },
+        {
+            "id": 82,
+            "name": "Mila Price",
+            "score": 140,
+            "avatar": "https://example.com/avatar82.png"
+        },
+        {
+            "id": 83,
+            "name": "Carter Bennett",
+            "score": 130,
+            "avatar": "https://example.com/avatar83.png"
+        },
+        {
+            "id": 84,
+            "name": "Samantha Rivera",
+            "score": 120,
+            "avatar": "https://example.com/avatar84.png"
+        },
+        {
+            "id": 85,
+            "name": "Jonathan Cooper",
+            "score": 110,
+            "avatar": "https://example.com/avatar85.png"
+        },
+        {
+            "id": 86,
+            "name": "Victoria Richardson",
+            "score": 100,
+            "avatar": "https://example.com/avatar86.png"
+        },
+        {
+            "id": 87,
+            "name": "Anthony Cox",
+            "score": 90,
+            "avatar": "https://example.com/avatar87.png"
+        },
+        {
+            "id": 88,
+            "name": "Ariana Howard",
+            "score": 80,
+            "avatar": "https://example.com/avatar88.png"
+        },
+        {
+            "id": 89,
+            "name": "Dylan Torres",
+            "score": 70,
+            "avatar": "https://example.com/avatar88.png"
+        },
+        {
+            "id": 90,
+            "name": "Luna Martinez",
+            "score": 60,
+            "avatar": "https://example.com/avatar90.png"
+        },
+        {
+            "id": 91,
+            "name": "Jaxon Lee",
+            "score": 50,
+            "avatar": "https://example.com/avatar91.png"
+        },
+        {
+            "id": 92,
+            "name": "Maya Gonzalez",
+            "score": 40,
+            "avatar": "https://example.com/avatar92.png"
+        },
+        {
+            "id": 93,
+            "name": "Hunter Perez",
+            "score": 30,
+            "avatar": "https://example.com/avatar93.png"
+        },
+        {
+            "id": 94,
+            "name": "Addison Sanchez",
+            "score": 20,
+            "avatar": "https://example.com/avatar94.png"
+        },
+        {
+            "id": 95,
+            "name": "Eli Ramirez",
+            "score": 10,
+            "avatar": "https://example.com/avatar95.png"
+        },
+        {
+            "id": 96,
+            "name": "Sophie Torres",
+            "score": 0,
+            "avatar": "https://example.com/avatar96.png"
+        },
+        {
+            "id": 97,
+            "name": "Aiden Flores",
+            "score": -10,
+            "avatar": "https://example.com/avatar97.png"
+        },
+        {
+            "id": 98,
+            "name": "Ella Rivera",
+            "score": -20,
+            "avatar": "https://example.com/avatar98.png"
+        },
+        {
+            "id": 99,
+            "name": "Jackson Cooper",
+            "score": -30,
+            "avatar": "https://example.com/avatar99.png"
+        },
+        {
+            "id": 100,
+            "name": "Grace Martinez",
+            "score": -40,
+            "avatar": "https://example.com/avatar100.png"
+        }
+    ]
+}
